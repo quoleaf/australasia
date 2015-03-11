@@ -10497,7 +10497,7 @@ label span {
 /*Added March 10 2015*/
 #header-outer.transparent header#top nav > ul > li > a, #header-outer.transparent header#top nav ul #search-btn a span, #header-outer.transparent nav > ul > li > a > .sf-sub-indicator [class^="icon-"], #header-outer.transparent nav > ul > li > a > .sf-sub-indicator [class*=" icon-"], #header-outer.transparent .cart-menu .cart-icon-wrap .icon-salient-cart, .ascend #boxed #header-outer.transparent .cart-menu .cart-icon-wrap .icon-salient-cart{color:#888!important}
 #header-outer.transparent header#top nav > ul > li > a:hover{color:#21cdec!important;}
-img.default-logo.dark-version{height:100px !important;padding-top:45px;}
+
 
 .testimonials-home{
 	color:#fff;
