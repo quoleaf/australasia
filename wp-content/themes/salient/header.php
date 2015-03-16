@@ -172,9 +172,9 @@ if($using_secondary == 'header_with_secondary') { ?>
 								 
 							 } else { echo get_bloginfo('name'); } ?> 
 					</a>
-
+		
 				</div><!--/span_3-->
-				
+						<div class="phone"><h2><?php dynamic_sidebar( 'Contact Details Header' ); ?></h2></div>	
 				<div class="col span_9 col_last">
 					
 					<?php if(has_nav_menu('top_nav')) echo '<a href="#mobilemenu" id="toggle-nav"><i class="icon-reorder"></i></a>'; ?>

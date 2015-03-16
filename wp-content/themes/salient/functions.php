@@ -79,7 +79,14 @@ function nectar_register_js() {
 
 add_action('wp_enqueue_scripts', 'nectar_register_js');
 
-
+register_sidebar(
+array(
+'name' => 'Contact Details Header',
+'before_widget' => '',
+'before_widget' =>'',
+'before_title' => '',
+'after_title' => ''
+));
 
 function nectar_page_specific_js() {
 	
